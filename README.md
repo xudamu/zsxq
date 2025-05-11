@@ -61,3 +61,8 @@ https://api.zsxq.com/v2/groups/28888122422841/topics?scope=all&count=20&end_time
 
 
 然后直接运行就行
+
+
+```
+python zsxq_crawler_back.py
+```
