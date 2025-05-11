@@ -29,7 +29,8 @@ https://api.zsxq.com/v2/groups/288881224841/topics?scope=all&count=20&end_time=2
 
 参数从F12中获取，group_id为纯数字。如果出现空白，则按下键盘的F5按钮刷新页面。
 
-![image-20250511210330964](C:/Users/90674/AppData/Roaming/Typora/typora-user-images/image-20250511210330964.png)
+![image](https://github.com/user-attachments/assets/b8ba3490-cd1f-4988-a842-e2db62310cbe)
+
 
 
 
@@ -51,10 +52,12 @@ https://api.zsxq.com/v2/groups/28888122422841/topics?scope=all&count=20
 https://api.zsxq.com/v2/groups/28888122422841/topics?scope=all&count=20&end_time=2024-12-17T14%3A54%3A21.852%2B0800
 ```
 
-![image-20250511210825166](C:/Users/90674/AppData/Roaming/Typora/typora-user-images/image-20250511210825166.png)
+![image](https://github.com/user-attachments/assets/44f4de09-c3c6-4a4d-a9ec-b10ad1b4368a)
+
 
 分批次复制到py文件中，修改api_url的值，运行即可。这里可以直接改一下后面的end_time的值
 
-![image-20250511211108736](C:/Users/90674/AppData/Roaming/Typora/typora-user-images/image-20250511211108736.png)
+![image](https://github.com/user-attachments/assets/f4cf84de-e445-4ab3-bc24-d734e36309fe)
+
 
 然后直接运行就行
